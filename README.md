@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryeast&count_private=true&theme=merko)]
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]                  
+
+재미있는 글을 좋아합니다. 청교도윤리적 세계관에서 실용주의가 어떻게 언어를 논리학적으로 정복하여 그레이스 호퍼를 탄생시킬 수 있었는지, 세계대전과 핵만능주의가 어떻게 한컴과 넥슨이 탄생할 수 있도록 만들었는지와 같은 이야기<<2 만큼 재미있는 이야기들을 좋아합니다.
 <!--
 **binaryeast/binaryeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
